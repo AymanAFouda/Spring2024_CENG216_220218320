@@ -1,0 +1,20 @@
+.main-vbox {
+    -fx-border-color: black;
+    -fx-border-insets: 10;
+    -fx-border-width: 1;
+    -fx-border-style: solid;
+ }
+
+
+ #background {
+ -fx-background-color: #ffffff;
+ }
+
+ .label {
+ -fx-text-fill: #000000;
+ }
+
+ .user-hbox {
+    -fx-background-color: #D9D9D9;
+
+ }
